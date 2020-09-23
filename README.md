@@ -17,6 +17,5 @@ Two, three, or four can play, without partnerships. At the beginning of the game
 * HTML
 * CSS
 * JSON Web Tokens
-* Heroku
-* mLab
+
 
